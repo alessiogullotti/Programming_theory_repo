@@ -1,0 +1,21 @@
+Class Person
+
+Variables: name (more than 1 character,less than 15), surname (more than 1 character,less than 15), age (more than 18, less than 110), gender
+
+Methods: sayHi, move
+
+
+
+Class Worker : Person
+
+Methods: sayHi, work,eat
+
+
+Class Lawyer: Person
+
+Methods: sayHi, work,eat
+
+
+Class Athlete: Person
+
+Methods: sayHi, work, eat
